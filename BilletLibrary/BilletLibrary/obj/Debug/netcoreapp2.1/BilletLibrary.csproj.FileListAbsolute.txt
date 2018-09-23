@@ -1,0 +1,9 @@
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\BilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.deps.json
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\BilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\BilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.pdb
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.csprojAssemblyReference.cache
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.csproj.CoreCompileInputs.cache
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.AssemblyInfoInputs.cache
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.AssemblyInfo.cs
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.pdb

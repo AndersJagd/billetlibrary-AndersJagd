@@ -1,0 +1,17 @@
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\UnitTester\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\UnitTester\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\UnitTester\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\UnitTester\bin\Debug\netcoreapp2.1\UnitTester.deps.json
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\UnitTester\bin\Debug\netcoreapp2.1\UnitTester.runtimeconfig.json
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\UnitTester\bin\Debug\netcoreapp2.1\UnitTester.runtimeconfig.dev.json
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\UnitTester\bin\Debug\netcoreapp2.1\UnitTester.dll
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\UnitTester\bin\Debug\netcoreapp2.1\UnitTester.pdb
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\UnitTester\obj\Debug\netcoreapp2.1\UnitTester.csprojAssemblyReference.cache
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\UnitTester\obj\Debug\netcoreapp2.1\UnitTester.csproj.CoreCompileInputs.cache
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\UnitTester\obj\Debug\netcoreapp2.1\UnitTester.AssemblyInfoInputs.cache
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\UnitTester\obj\Debug\netcoreapp2.1\UnitTester.AssemblyInfo.cs
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\UnitTester\obj\Debug\netcoreapp2.1\UnitTester.dll
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\UnitTester\obj\Debug\netcoreapp2.1\UnitTester.pdb
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\UnitTester\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\UnitTester\bin\Debug\netcoreapp2.1\BilletLibrary.pdb
+C:\Users\clang\source\billetlibrary-AndersJagd\BilletLibrary\UnitTester\obj\Debug\netcoreapp2.1\UnitTester.csproj.CopyComplete
